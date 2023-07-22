@@ -1,0 +1,77 @@
+n_venue_x,keep,place_1,place_2,place_3
+,,,,
+FORT MYERS FL,y,"('JetBlue Park', 'ChIJXwYGSUkT24gR-7SSQ2SiScA')",,"('Hammond Stadium', 'ChIJ09jJJicT24gR33bxjWWm1yE')"
+SURPRISE AZ,y,"('Surprise Stadium', 'ChIJ-4eobdlEK4cRhsPk1H7onOQ')",,
+SPARTANBURG SC,y,"('Duncan Park Stadium', 'ChIJtz2Fr9SfV4gR9bFK7CcTzVU')","('Cleveland S. Harley Baseball Park', 'ChIJ3xduAZJ2V4gRtjWvoJkvx_w')",
+LAKELAND FL,y,"('Henley Field', 'ChIJ0fvxY6w43YgRuFhbX0KO_xQ')","('Publix Field at Joker Marchant Stadium', 'ChIJGbcoDbJA3YgRC_y_gzgsFQ0')","('Bryant Stadium', 'ChIJf6SQhKs43YgRFxm9eBBiwWc')"
+SPRINGFIELD MO,y,"('Hammons Field', 'ChIJsRrISeBiz4cRsAogodfecCc')","('Springfield Cardinals', 'ChIJ2X8nT-Biz4cR1gdrHlCIb1Q')","('Missouri Sports Hall of Fame', 'ChIJSVoB41V6z4cRphuQsc0F808')"
+HOUSTON,,,,
+SAN DIEGO,,,,
+LUBBOCK TX,y,"('Jones AT&T Stadium', 'ChIJn1c-CboS_oYRrz2HlabH6ZE')","('Hays Field', 'ChIJW15QdNVy_oYRA9IaP1BEm90')","('Pirate Stadium at First United Park', 'ChIJLSF8ludv_oYRc37uOszJxFw')"
+PHOENIX,,,,
+CONWAY SC,y,"('Brooks Stadium', 'ChIJDzQgHNVsAIkR7gXD9dJYk6I')","('COASTAL CAROLINA BASEBALL', 'ChIJ07CpiittAIkRnq4LdKA59kk')","('Coastal Carolina Soccer Stadium', 'ChIJiTVBQ9RsAIkRfI4xHXvQGWU')"
+PENSACOLA FL,y,"('Blue Wahoos Stadium featuring Admiral Fetterman Field - Home of the Pensacola Blue Wahoos', 'ChIJp_LI7FTHkIgRkKbegfU015s')","('Pensacola FC Stadium', 'ChIJ2QY5BqKVkIgRKClcG1VC0BE')","('Vince J. Whibbs Sr. Community Maritime Park', 'ChIJs79B6VTHkIgR_GrMBD-pkJk')"
+CARY NC,y,"('USA Baseball National Training Complex', 'ChIJkdXjSVnsrIkRUv8NB-CHS30')",,
+GREENVILLE SC,y,,"('Fluor Field', 'ChIJo7Q8sTUwWIgRoDHH3SDSBL0')",
+KNOXVILLE TN,y,"('Lindsey Nelson Stadium', 'ChIJLbWnU-IXXIgRKQllZt2RXlA')","('Neyland Stadium', 'ChIJT3-A298XXIgRXvDXbMwYStc')",
+LOS ANGELES,,,,
+AUBURN AL,y,"('Plainsman Park', 'ChIJuTS0ZQ_zjIgRb_J_ofo-Ab0')","('Jordan-Hare Stadium', 'ChIJRQZjXwXzjIgRnXbaN7ExsNc')","('Duck Samford Stadium', 'ChIJQc4czJnyjIgRcGJgKm3bUZk')"
+CHARLOTTE NC,,,,
+BIRMINGHAM AL,y,"('Baseball Stadium', 'ChIJZWfa6sEZiYgRR38pQ7K8d8w')","('Rickwood Field', 'ChIJ4-q_oTEciYgRuZpwd-lDAkM')",
+METAIRIE LA,y,"('Turchin Stadium', 'ChIJS8rx6gulIIYRBXdafWDa-Tk')",,
+JACKSONVILLE FL,y,"('121 Financial Ballpark', 'ChIJvZD8R-G25YgRmda6Z5fb7GY')","('Harmon Stadium', 'ChIJz9INJ7ZK5IgRJ0pQAY3Ha-I')","('John Sessions Stadium', 'ChIJpanQolSx5YgRX92fYP84gBs')"
+PEARL MS,,,,
+KANSAS CITY MO,,,,
+NASHVILLE TN,,,,
+MONTGOMERY AL,y,,"('Montgomery Riverwalk Stadium', 'ChIJzS6mYW-BjogRILbQ5XjY6ZY')","('The ASU Stadium', 'ChIJUcEcgaOBjogR0HfhNhjucKo')"
+OXFORD MS,y,"('Swayze Field', 'ChIJi8r8cu16gIgRDy2VyTXGW24')",,
+SUGAR LAND TX,y,"('Constellation Field', 'ChIJNwagoyrhQIYRfVS5i7llupM')",,
+NORTH LITTLE ROCK AR,y,"('Wildcat Field', 'ChIJ4dz-gfS80ocRcQGcgHTCvT0')","('War Memorial Stadium', 'ChIJqYWVZZ2k0ocRg4no3S-kl2M')","('Gary Hogan Field', 'ChIJzz5yS42k0ocRhDNtkcugNu0')"
+BILOXI MS,y,"('Pete Taylor Park', 'ChIJGyiY7L7enIgRx77qiL1Whes')",,
+SAUGET IL,y,"('Grizzlies Ballpark', 'ChIJO9n9uQuu2IcRyY7Opyipa0U')",,
+NORMAN OK,y,"('Gaylord Family - Oklahoma Memorial Stadium', 'ChIJUWBFtdRpsocREr6hPvM8vRo')",,
+ATLANTA,,,,
+TUSCALOOSA AL,y,,"('Sewell-Thomas Stadium', 'ChIJc8n2fSeoiIgR7CvyBGYbBts')",
+SAN ANTONIO,,,,
+LEXINGTON KY,y,,"('Kentucky Proud Park', 'ChIJj2H4Td5bQogR9oBOv3zOg1M')",
+HOOVER AL,y,"('Hoover Metropolitan Complex', 'ChIJ4R0GHhEhiYgRjmkWiEBnD90')","('Hoover Met Baseball / Softball Fields', 'ChIJs0_nmc0hiYgRe9LVtuvTw-w')",
+CLEARWATER FL,y,"('BayCare Ballpark', 'ChIJH0k8TCruwogRixuhORQcTwo')",,
+DURHAM NC,y,"('Durham Bulls Athletic Park', 'ChIJ70wim2zkrIkRPX5-jedLkQ4')",,
+BRONX NY,,,,
+SAN MARCOS TX,y,,"('Bobcat Ballpark', 'ChIJq3zuE0WoXIYR5_fiEyuOKJU')",
+HATTIESBURG MS,y,,"('Pete Taylor Park', 'ChIJGyiY7L7enIgRx77qiL1Whes')",
+LOWELL MA,y,"('Edward A. LeLacheur Park', 'ChIJtUsJOE-k44kRiUNzXKmW_jw')",,
+MOUNT PLEASANT SC,y,"('College of Charleston Baseball Stadium', 'ChIJF4q43I1w_ogRoykMbPd8hkw')","('Shipyard Park', 'ChIJcdM0-6du_ogRmmHCMPY_9T4')",
+TULSA OK,y,"('Skelly Field at H.A. Chapman Stadium', 'ChIJ8eL_1vzstocRGPH2dJ56TyI')",,"('ONEOK Field', 'ChIJDf8s0arrtocRwLNh6kMIFxk')"
+OMAHA NE,y,"('Charles Schwab Field Omaha', 'ChIJfy3TqLePk4cR9J8Ns6aWQVA')",,
+FISHKILL NY,y,"('Heritage Financial Park', 'ChIJQfHKJBgx3YkRsY2d3FqtH9g')",,
+TERRE HAUTE IN,,,,
+AVON OH,y,"('Crushers Stadium', 'ChIJe1w0YnmQMIgRmWOFeXJqNMA')",,
+MESA AZ,y,"('Hohokam Stadium', 'ChIJcYVVpqOnK4cRnnZu2uc9vRg')",,
+ALBUQUERQUE NM,y,"('Santa Ana Star Field', 'ChIJOe9K3oIMIocROoExHo5FO7w')","('Rio Grande Credit Union Field at Isotopes Park', 'ChIJsYQBnoIMIocR6ShJ4QWCjPE')",
+OKLAHOMA CITY,y,"('Chickasaw Bricktown Ballpark', 'ChIJV6DhxiAXsocRQr2usO_YXPo')",,
+FAIRBORN OH,y,"('Memorial Stadium', 'ChIJPx-PRB6fQIgRCttal7EECqw')",,
+JACKSON TN,y,"('The Ballpark at Jackson', 'ChIJ93HmuJcdfIgRATpcNX0UmuA')",,
+STARKVILLE MS,y,"('Dudy Noble Field', 'ChIJtei_CzE1gYgRJcb-t4V5eTY')",,
+CHARLESTON SC,y,"('College of Charleston Baseball Stadium', 'ChIJF4q43I1w_ogRoykMbPd8hkw')",,
+THE BEACH,,,,
+NORFOLK VA,y,"('Norfolk Tides Baseball Club at Harbor Park Stadium', 'ChIJoQNa6AaYuokRCR7_vmuvcAI')",,"('S.B. Ballard Stadium', 'ChIJFdCrE7KZuokRJDFeXCbG51c')"
+CORPUS CHRISTI TX,y,"('Whataburger Field', 'ChIJfYpQvHxeaIYRi-FDHFjBuq4')","('Cabaniss Baseball Field', 'ChIJLx2N10j1aIYRzWHDhg091Nk')",
+FRISCO TX,y,"('David Kuykendall Stadium', 'ChIJnzKUthw8TIYRfRcWsJ9e5x8')",,"('Toyota Stadium', 'ChIJ1XCX6P47TIYRgdxgzkF9gco')"
+LAKE ELSINORE CA,y,"('Lake Elsinore Diamond', 'ChIJaWHM5Lmb3IAR0iBVxVMhnyo')",,
+BOSTON,,,,
+KODAK TN,y,"('Tennessee Smokies Stadium', 'ChIJqWbIZloJXIgRrTe0yb6TVGI')","('Lindsey Nelson Stadium', 'ChIJLbWnU-IXXIgRKQllZt2RXlA')",
+WINSTON-SALEM NC,y,"('Truist Stadium', 'ChIJNd8SPUiuU4gR5DY-83FBAXU')",,"('David F. Couch Ballpark', 'ChIJd7I0ZN6tU4gR931DT7ncUAw')"
+NEW ORLEANS,,,,
+LOUISVILLE KY,y,,"('Louisville Slugger Field', 'ChIJmXl13MByaYgRA5-2C8Ooaas')","('Jim Patterson Stadium', 'ChIJEfXgJw0NaYgRVM4If7LdTsk')"
+OXFORD AL,y,"('Choccolocco Park', 'ChIJE16mTwmxi4gR1y1ezIgHRgg')",,
+CHAMPAIGN IL,y,"('University of Illinois Memorial Stadium', 'ChIJkX0jeyXXDIgR25chvA2_Coc')",,"('Illinois Field', 'ChIJs02kySPXDIgRSs6jzBrIJok')"
+CHAPEL HILL NC,y,"('Bryson Field at Boshamer Stadium', 'ChIJwb49wOzCrIkRCWzJdEMufRY')","('Kenan Memorial Stadium', 'ChIJE5NvLpXCrIkRzDzC6gFhPIA')",
+CLEMSON SC,y,"('Doug Kingsmore Stadium', 'ChIJB33r6kZeWIgRZxqROw_I3Uc')",,
+GAINESVILLE FL,y,"('McKethan Field / Condron Ballpark', 'ChIJA3CpAuuj6IgRm4grleWa5wE')",,
+LAFAYETTE LA,y,"('ML ""Tigue"" Moore Field at Russo Park', 'ChIJg4HT9mmcJIYRBGqpEygoJeI')","('Cajun Field', 'ChIJx9KdZGmcJIYROf5TdDF3mIg')",
+COLUMBIA SC,y,"('Founders Park', 'ChIJMVh1yzy7-IgRkoLIc9WQHV4')","('Williams-Brice Stadium', 'ChIJkfchE--6-IgRZcKj9HFI9IM')","('Charles W.Johnson Stadium', 'ChIJJ5DtyTil-IgR6ZoYiB7zSBg')"
+COOKEVILLE TN,y,"('Bush Stadium', 'ChIJ51K-PgciZ4gR5_eh4S-nnd8')","('Tucker Stadium', 'ChIJJbpmGQciZ4gRLvBdUEj7UsE')",
+HARRISONBURG VA,y,"('EMU Baseball Field', 'ChIJp4Be8WDttIkR9DIi3mBSu8A')","('Long Field / Mauck Stadium', 'ChIJAyFgxMGStIkRttXgn_x-yTw')",
+DALLAS,,,,
+BOCA RATON FL,y,"('FAU Baseball Stadium', 'ChIJlbA7gvUf2YgRF2HZs7Rxbu8')",,

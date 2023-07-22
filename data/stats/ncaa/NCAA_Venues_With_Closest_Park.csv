@@ -1,0 +1,306 @@
+match_quality,venue,closest_park_name,distance_to_closest_park,city,state,team,conference,capacity,opened,latitude,longitude,elevation
+Good,Varsity Field,Varsity Field - SUNY Albany ,75.85257132067642,Albany,NY,Albany,America East,500,c.1980,42.6785701,-73.8237445,61.78708267
+Good,Binghamton Baseball Stadium Complex,Binghamton Baseball Stadium Complex - SNY Binghamton ,118.42983021225177,Vestal,NY,Binghamton,America East,1906,2022,42.0937917,-75.9746098,271.1980591
+Good,Conaty Park,Conaty Park - Bryant ,59.892860671000385,Smithfield,RI,Bryant,America East,500,2012,41.925608,-71.5385642,124.194191
+Good,Mahaney Diamond,Mahaney Diamond - Maine ,39.18357701969988,Orono,ME,Maine,America East,4400,Early 1980s,44.9049299,-68.6697723,34.98371887
+Good,Jim Hynes Stadium,Jim Hynes Stadium - NJIT ,71.37272462941554,Union Township,NJ,NJIT,America East,700,2000,40.6807905,-74.2401254,19.70412064
+Good,Edward A. LeLacheur Park,UMass Lowell ,71.3052379969055,Lowell,MA,UMass Lowell,America East,4767,1998,42.6536112,-71.3178303,23.75288773
+Good,The Baseball Factory Field at UMBC,The Baseball Factory Field - UMBC ,57.61582414500408,Catonsville,MD,UMBC,America East,1000,N/A(Renovated 2004),39.2495837,-76.7085788,42.05427551
+Good,Robert and Mariam Hayes Stadium,Robert and Mariam Hayes Stadium- Charlotte ,68.665279571048,Charlotte,NC,Charlotte,The American,4100,1994,35.3081149,-80.7390641,185.0974426
+Good,Clark–LeClair Stadium,East Carolina University - Clark-LeClair Stadium,48.225695336497765,Greenville,NC,East Carolina,The American,5000,2005,35.5929511,-77.3671406,18.56173515
+Good,FAU Baseball Stadium,FAU Baseball Stadium- Florida Internations ,68.0238096181961,Boca Raton,FL,Florida Atlantic,The American,2000,1991,26.3702709,-80.1095751,3.560908318
+Good,FedExPark,FedExPark- Memphis ,70.25429556539365,Memphis,TN,Memphis,The American,2000,1972,35.1021359,-89.9255848,90.57918549
+Good,Reckling Park,Reckling Park- Rice ,71.60274727104839,Houston,TX,Rice,The American,6193,2000,29.7132708,-95.404089,14.29854393
+Good,USF Baseball Stadium,USF Baseball Stadium - South Florida ,74.28848770232818,Tampa,FL,South Florida,The American,3211,2011,28.059087,-82.4041421,18.72600174
+Good,Greer Field at Turchin Stadium,Greer Field at Turchin Stadium - Tulane _,63.45046451677701,New Orleans,LA,Tulane,The American,5000,1991(destroyed in 2005 by Hurricane Katrina; rebuilt and reopened in 2007),29.9462748,-90.1155605,1.18e-38
+Good,Jerry D. Young Memorial Field,Jerry D. Young Memorial Field - U. Alabama Birmingham ,73.67822307426954,Birmingham,AL,UAB,The American,1000,1984,33.4984935,-86.8105794,186.0037384
+Good,Roadrunner Field,Roadrunner Field- UTSA ,267.47518087410845,San Antonio,TX,UTSA,The American,800,1993,29.5837677,-98.6226913,302.2505493
+Good,Eck Stadium,Eck Stadium - Wichita State ,76.45421261712931,Wichita,KS,Wichita State,The American,8153,1978(Renovated 2009),37.721955,-97.2881177,426.8837891
+Good,Raymond C. Hand Park,Raymond C. Hand Park- Austin Peay ,70.66342980931785,Clarksville,TN,Austin Peay,ASUN,"1,000+",1970(Several renovations),36.5380536,-87.3562753,141.8056641
+Bad,Knights Field,Louisville - Jim Patterson Stadium  ,5153.650013470385,Louisville,KY,Bellarmine,ASUN,—,1954,38.2168873,-85.7056446,140.0261841
+Bad,Bear Stadium,Arkansas - Baum-Walker Stadium ,189324.96083157582,Conway,AR,Central Arkansas,ASUN,1000,2009,35.0832533,-92.459899,96.2361145
+Bad,Turkey Hughes Field,Kentucky - Kentuckyud Park,36085.892887946946,Richmond,KY,Eastern Kentucky,ASUN,500,1960s(Renovated 2009),37.7361549,-84.2998257,308.6896973
+Good,Swanson Stadium,Swanson Stadium - Florida Gulf Coast ,72.67765726628207,Fort Myers,FL,Florida Gulf Coast,ASUN,1500,2004,26.4709503,-81.7632771,7.053853512
+Bad,John Sessions Stadium,Florida Univ - TEMP,107837.94873475422,Jacksonville,FL,Jacksonville,ASUN,3000,—,30.3514645,-81.6074572,4.446594715
+Bad,Fred Stillwell Stadium,Russ Chandler Stadium- Georgia Tech ,33379.48361468858,Kennesaw,GA,Kennesaw State,ASUN,1200,1984,34.0337869,-84.581686,321.1557922
+Check,Ken Dugan Field at Stephen Lee Marsh Stadium,Vanderbilt - Hawkins Field ,4611.488939046912,Nashville,TN,Lipscomb,ASUN,1500,1991,36.102381,-86.7987828,169.6248627
+Bad,Mike D. Lane Field,Jerry D. Young Memorial Field - U. Alabama Birmingham ,166611.66217519855,Florence,AL,North Alabama,ASUN,—,1984(?),34.8097585,-87.6853515,167.6334991
+Bad,Harmon Stadium,Florida Univ - TEMP,108792.88669864164,Jacksonville,FL,North Florida,ASUN,1000,1993,30.2750305,-81.5083789,12.39716053
+Bad,Tuckaseegee Dream Fields,Robert and Mariam Hayes Stadium- Charlotte ,20652.074122620324,Charlotte,NC,Queens,ASUN,—,—,35.2458229,-80.9540557,224.7689056
+Bad,Melching Field at Conrad Park,John Euliano Park- Central Florida ,46807.84757594673,DeLand,FL,Stetson,ASUN,2500,1999,29.0198191,-81.3018907,11.98989582
+Good,Eddie Pellagrini Diamond,Boston C. ,69.06210255886421,Boston,MA,Boston College,Atlantic Coast,2500,2018,42.3439019,-71.1597951,13.70800209
+Good,Doug Kingsmore Stadium,Clemson - Doug Kingsmore Stadium,47.518785010378046,Clemson,SC,Clemson,Atlantic Coast,6217,1970,34.6787794,-82.8493165,192.0006256
+Good,Jack Coombs Field,Duke - Jack Coombs Field ,59.17526525986759,Durham,NC,Duke,Atlantic Coast,2000,1931,35.9980856,-78.9442361,125.2663422
+Good,Mike Martin Field at Dick Howser Stadium,Mike Martin Field at Dick Howser Stadium - Florida State ,82.87039968112289,Tallahassee,FL,Florida State,Atlantic Coast,6700,1983,30.4405434,-84.3040448,21.59014511
+Good,Russ Chandler Stadium,Russ Chandler Stadium- Georgia Tech ,75.41713937888532,Atlanta,GA,Georgia Tech,Atlantic Coast,4157,1930,33.777639,-84.3945457,275.0564575
+Good,Jim Patterson Stadium,Louisville - Jim Patterson Stadium  ,4.601615122710447,Louisville,KY,Louisville,Atlantic Coast,4000,2005,38.2055156,-85.7628651,140.2866211
+Good,Alex Rodriguez Park at Mark Light Field,Miami - Alex Rodriguez Park at Mark Light Field,57.62001959838878,Coral Gables,FL,University of Miami,Atlantic Coast,5000,1973,25.7120599,-80.2822951,3.196041346
+Good,Boshamer Stadium,UNC - Boshamer Stadium ,26.92944485469436,Chapel Hill,NC,North Carolina,Atlantic Coast,5000,1972,35.9063145,-79.0427441,125.8752213
+Bad,Doak Field,Coleman Field - USA National Baseball Stadium,19196.585936861666,Raleigh,NC,North Carolina State University,Atlantic Coast,3000,1966,35.7873196,-78.6796862,120.4100494
+Good,Frank Eck Stadium,Notre Dame ,32.7716010347576,Notre Dame,IN,Notre Dame,Atlantic Coast,2500,1994,41.6962849,-86.2280772,225.9461365
+Good,Charles L. Cost Field,Charles L. Cost Field - Pittsburgh ,68.18681301597884,Pittsburgh,PA,Pittsburgh,Atlantic Coast,900,2011,40.4453267,-79.966175,347.5736694
+Good,Davenport Field at Disharoon Park,U of Virginia ,73.86356202481527,Charlottesville,VA,Virginia,Atlantic Coast,5500,2000,38.0457546,-78.513342,173.6851654
+Good,English Field,Virginia Tech - English Field at Atlantic Union Bank Park ,73.24208831385307,Blacksburg,VA,Virginia Tech,Atlantic Coast,4000,1989,37.217839,-80.4233407,623.3162231
+Good,David F. Couch Ballpark,Wake Forrest ,64.90461695851465,Winston-Salem,NC,Wake Forest,Atlantic Coast,3823,1956,36.1298712,-80.2518555,289.337616
+Good,T. Henry Wilson Jr. Field,T. Henry Wilson Jr. Field- Davidson ,70.44623134123886,Davidson,NC,Davidson,Atlantic 10,700,1967,35.5042846,-80.840967,244.4828644
+Good,Woerner Field,Woerner Field- Dayton ,67.47652039766217,Dayton,OH,Dayton,Atlantic 10,500,2004,39.7346059,-84.203193,221.8783569
+Good,Jim Houlihan Park at Jack Coffey Field,Jim Houlihan Park at Jack Coffey Field- Fordham ,78.15334170164013,Bronx,NY,Fordham,Atlantic 10,500,2005,40.8610552,-73.8826819,30.9648056
+Good,Spuhler Field,Spuhler Field - George Mason ,71.75871263959142,Fairfax,VA,George Mason,Atlantic 10,900,1986,38.8345236,-77.3179345,121.3474045
+Good,Barcroft Park,Barcroft Park - George Washington ,300.49915950243025,Arlington,VA,George Washington,Atlantic 10,500,1993,38.8487929,-77.1019917,22.90987587
+Good,Earl Lorden Field,Earl Lorden Field - UMass Amherst ,69.84536604224888,Amherst,MA,"University of Massachusetts, Amherst",Atlantic 10,1000,1971,42.3904634,-72.5352251,47.0904808
+Good,Bill Beck Field,Bill Beck Field - Rhode Island ,62.414674760071875,Kingston,RI,Rhode Island,Atlantic 10,1000,1966,41.4853993,-71.5379962,34.32493973
+Good,Malcolm U. Pitt Field,Malcolm U. Pitt Field - Richmond ,68.39683749585117,Richmond,VA,Richmond,Atlantic 10,600,—,37.5792523,-77.5409492,50.60505676
+Good,Fred Handler Park,Fred Handler Park- St Bonaventure ,70.33321162020154,St. Bonaventure,NY,St. Bonaventure,Atlantic 10,500,1958,42.0787798,-78.4863931,430.5046997
+Good,Smithson Field,Smithson Field - Saint Josephs ,68.51038437502228,Merion Station,PA,Saint Joseph's,Atlantic 10,400,2012,39.9957095,-75.2454395,83.24876404
+Good,Billiken Sports Center,Billiken Sports Center - St Louis ,328.9487331028281,St. Louis,MO,Saint Louis,Atlantic 10,500,1990,38.633037,-90.2280031,153.7638855
+Good,The Diamond,The Diamond- VCU ,74.06441594001166,Richmond,VA,VCU,Atlantic 10,12134,1985,37.5717224,-77.4632055,63.29532623
+Good,Bulldog Park,Bulldog Park - Butler ,92.49680324875266,Indianapolis,IN,Butler,Big East,500,—,39.846334,-86.168479,217.5989227
+Good,TD Ameritrade Park Omaha,Charles Schwab Field Omaha ,67.41457358713454,Omaha,NE,Creighton,Big East,24505,2011,41.2667611,-95.9314596,297.5004578
+Good,Shirley Povich Field,Shirley Povich Field- Georgetown ,78.39923704992485,Bethesda,MD,Georgetown,Big East,1500,2000,39.0310113,-77.1509487,91.93266296
+Good,"Mike Sheppard, Sr. Stadium at Owen T. Carroll Field",Sheppard Stadium - Seton Hall ,70.23412229568716,South Orange,NJ,Seton Hall,Big East,261,1907,40.7406714,-74.2481949,74.69132996
+Good,Jack Kaiser Stadium,Jack Kaiser Stadium - St Johns ,71.84393564854948,Queens,NY,St. John's,Big East,3500,2000,40.7236818,-73.7914987,28.06645393
+Good,Elliot Ballpark,UConn - Elliot Ballpark,26.602376871030557,Storrs,CT,UConn,Big East,"1,500[11]",2021[a],41.8006501,-72.2536518,197.8487396
+Good,Villanova Ballpark at Plymouth,Villanova Ballpark at Plymouth - Villanova ,71.64226056253432,Plymouth Meeting,PA,Villanova,Big East,1500,2003,40.1236506,-75.2894035,95.27973175
+Good,J. Page Hayden Field,J. Page Hayden Field- Xavier ,90.13273242387376,Cincinnati,OH,Xavier,Big East,500,1920s,39.1499423,-84.4764894,181.2694855
+Good,Buccaneer Ballpark,Buccaneer Ballpark- Charleston Southern ,70.1416766621787,North Charleston,SC,Charleston Southern,Big South,1500,—,32.9836917,-80.0670163,10.29676533
+Good,John Henry Moss Stadium,John Henry Moss Stadium - Gardnew-Webb ,51.09325820097624,Boiling Springs,NC,Gardner-Webb,Big South,700,2010,35.24377,-81.669082,259.7330627
+Good,George S. Erath Field at Coy O. Williard Baseball Stadium,Coy O. Williard Baseball Stadium- High Point ,59.49569692442088,High Point,NC,High Point,Big South,550,2007,35.9751648,-79.9958441,253.5614014
+Good,Bolding Stadium,Bolding Stadium - Longwood ,88.99292197440393,Farmville,VA,Longwood,Big South,500,1994,37.2938185,-78.3961318,116.9873886
+Good,Presbyterian Baseball Complex,Presbyterian Baseball Complex - Presbyterian ,69.28520889836047,Clinton,SC,Presbyterian,Big South,500,1988,34.4611425,-81.8640922,199.5849457
+Good,Radford Baseball Stadium,Radford Baseball Stadium - Radford ,113.45349513107675,Radford,VA,Radford,Big South,700,1986,37.1367865,-80.5391754,530.7021484
+Good,Greenwood Baseball Field,Greenwood Baseball Field - UNC Asheville ,72.96043641508706,Asheville,NC,UNC Asheville,Big South,300,1988,35.6168426,-82.5707155,630.6143188
+Good,Cleveland S. Harley Baseball Park,Cleveland S. Harley Baseball Park - USC Upstate,422.1928970855203,Spartanburg,SC,USC Upstate,Big South,500,2004,35.0023536,-81.9653883,251.8916168
+Good,Winthrop Ballpark,Winthrop Ballpark - Winthrop ,65.52022250105506,Rock Hill,SC,Winthrop,Big South,1800,2007,34.9460337,-81.0194117,198.8408508
+Good,Illinois Field,University of Illinois ,60.25325032683405,Champaign,IL,Illinois,Big Ten,3000,1988,40.0971217,-88.2294574,230.4178925
+Good,Bart Kaufman Field,Indiana University ,47.100154559613095,Bloomington,IN,Indiana,Big Ten,2500,2013,39.1848834,-86.5223836,243.0321198
+Good,Duane Banks Field,University of Iowa ,316.56426739335683,Iowa City,IA,Iowa,Big Ten,3000,1974,41.663778,-91.5546047,216.1651764
+Good,Shipley Field,University of Maryland ,51.95733211096687,College Park,MD,Maryland,Big Ten,2500,1965,38.9894267,-76.9443211,35.65171051
+Good,Ray Fisher Stadium,U of M ,0.8298386646562643,Ann Arbor,MI,Michigan,Big Ten,4000,1923,42.2678621,-83.7420671,253.7054443
+Good,Drayton McLane Baseball Stadium at John H. Kobs Field,OldField (MSU) ,55.50757309444423,East Lansing,MI,Michigan State,Big Ten,4600,1902,42.7323431,-84.4884579,252.9125671
+Good,Siebert Field,University of Minnesota ,59.92513741931874,Minneapolis,MN,Minnesota,Big Ten,1500,1971,44.9821897,-93.2292455,254.2904205
+Good,Haymarket Park,Nebraska University ,73.4586306721062,Lincoln,NE,Nebraska,Big Ten,8500,2001,40.822845,-96.7131624,347.9354248
+Good,Rocky Miller Park,Northwestern University  ,65.55719473159519,Evanston,IL,Northwestern,Big Ten,600,1943,42.0680471,-87.692518,183.1503296
+Good,Bill Davis Stadium,Ohio State Uni ,63.75321295265534,Columbus,OH,Ohio State,Big Ten,4450,1997,40.0099182,-83.0259088,224.9793854
+Good,Medlar Field at Lubrano Park,Penn State University ,3.131211389776121,University Park,PA,Penn State,Big Ten,5406,2006,40.812278,-77.8524246,345.2424622
+Good,Alexander Field,Purdue University ,39.11783773896592,West Lafayette,IN,Purdue,Big Ten,1500,2013,40.4372183,-86.9421323,207.3272705
+Good,Bainton Field,Rutgers University ,99.71716548761047,Piscataway,NJ,Rutgers,Big Ten,1500,2007,40.5276451,-74.4424057,27.86833572
+Good,Baylor Ballpark,Baylor Ballpark - Baylor University ,82.81765210848204,Waco,TX,Baylor,Big 12,5000,1999,31.5509941,-97.1075414,118.882576
+Good,Larry H. Miller Field,Larry H. Miller Field - BYU ,72.50485813265992,Provo,UT,BYU,Big 12,2710,2001,40.2547328,-111.6513737,1420.372925
+Check,UC Baseball Stadium,J. Page Hayden Field- Xavier ,3803.9362989727356,Cincinnati,OH,Cincinnati,Big 12,3085,2004,39.1302033,-84.5137747,245.7969513
+Bad,Schroeder Park,Reckling Park- Rice ,5939.138051322064,Houston,TX,Houston,Big 12,5000,1995,29.7267987,-95.3453574,11.6844511
+Good,Hoglund Ballpark,Hoglund Ballpark - Kansas ,72.73675219089516,Lawrence,KS,Kansas,Big 12,2500,1958,38.9527426,-95.252621,274.7484741
+Good,Tointon Family Stadium,Tointon Family Stadium - Kansas State ,69.26357973037071,Manhattan,KS,Kansas State,Big 12,2331,1961,39.1992239,-96.5969735,340.9178162
+Good,L. Dale Mitchell Baseball Park,L. Dale Mitchell Baseball Park - Oklahoma ,70.43537514196665,Norman,OK,Oklahoma,Big 12,3180,1982,35.1908778,-97.4460294,348.3063049
+Good,O'Brate Stadium,Oklahoma State - O'Brate Stadium,25.589011405061044,Stillwater,OK,Oklahoma State,Big 12,"3,500[13]",2021[a],36.1310616,-97.0687453,278.1031494
+Good,UFCU Disch–Falk Field,U of Texas - UFCU Disch–Falk Field,57.57878208802504,Austin,TX,Texas,Big 12,7373,1975,30.2799584,-97.7261606,176.8224335
+Good,Lupton Stadium,TCU - Texas Christian ,52.74346585599312,Fort Worth,TX,TCU,Big 12,4500,2003,32.7027992,-97.3721802,203.692215
+Good,Dan Law Field at Rip Griffin Park,Texas Tech - Rip Griffin Park  ,77.3305355387669,Lubbock,TX,Texas Tech,Big 12,4368,1926(Renovated 2012),33.5884529,-101.8765955,980.9846802
+Good,John Euliano Park,John Euliano Park- Central Florida ,68.43452843914112,Orlando,FL,UCF,Big 12,3600,2001,28.6090475,-81.1953991,22.03911781
+Good,Monongalia County Ballpark,Monongalia County Ballpark - WV Black Bears ,85.11049329257847,Granville,WV,West Virginia,Big 12,3500,2015,39.6436986,-79.9958649,349.5673218
+Good,Robin Baggett Stadium,Robin Baggett Stadium - Cal Poly ,85.66352591441036,San Luis Obispo,CA,Cal Poly,Big West,1534,2001,35.3069122,-120.6651058,103.931282
+Good,Hardt Field,Hardt Field - Cal State Bakersfield ,71.0682715469278,Bakersfield,CA,Cal State Bakersfield,Big West,900,2009,35.3473891,-119.1076226,113.7483826
+Good,Goodwin Field,Goodwin Field- Cal State Fullerton ,72.28657871860361,Fullerton,CA,Cal State Fullerton,Big West,3500,1992,33.887139,-117.8853105,77.8183136
+Good,Matador Field,Matador Field- Cal State Northridge ,111.72219821077866,Northridge,CA,Cal State Northridge,Big West,1200,1961,34.2452183,-118.5270635,275.4429932
+Good,Les Murakami Stadium,"University of HawaiiHonolulu, HI",16.615434755637082,Honolulu,HI,"University of Hawaii, Manoa",Big West,4312,1984,21.2932221,-157.8160896,4.091464043
+Good,Blair Field,Blair Field- Long Beach State ,134.99763859878368,Long Beach,CA,Long Beach State,Big West,3283,1958,33.7783672,-118.1388338,9.692743301
+Good,Dobbins Stadium,Dobbin's Baseball Complex - UC Davis ,978.5363269691818,Davis,CA,UC Davis,Big West,3500,1986,38.5452508,-121.7482471,13.71647739
+Good,Cicerone Field at Anteater Ballpark,Cicerone Field at Anteater Ballpark- UC Irvine ,88.31149434988593,Irvine,CA,UC Irvine,Big West,2900,2002,33.651237,-117.8479574,17.50639343
+Good,Riverside Sports Complex,Riverside Sports Complex- UC Riverside ,50.87971621775687,Riverside,CA,UC Riverside,Big West,2500,—,33.9822596,-117.3329542,312.0978394
+Good,Triton Ballpark,Triton Ballpark- UC San Diego ,99.43628033754653,La Jolla,CA,UC San Diego,Big West,1200,—,32.8809124,-117.2261784,97.98009491
+Good,Caesar Uyesaka Stadium,Caesar Uyesaka Stadium - UC Santa Barbara ,72.94958542316226,Santa Barbara,CA,UC Santa Barbara,Big West,1000,1964,34.4190504,-119.8523306,12.95749187
+Good,Jim Perry Stadium,Campbell University - Jim Perry Stadium,82.01883031592811,Buies Creek,NC,Campbell,Colonial Athletic,630,2013,35.409888,-78.7351627,60.51202774
+Bad,CofC Baseball Stadium at Patriot's Point,Buccaneer Ballpark- Charleston Southern ,25968.84477531267,Mount Pleasant,SC,Charleston,Colonial Athletic,2000,2001,32.7952232,-79.9022674,6.441978455
+Bad,Bob Hannah Stadium,Smithson Field - Saint Josephs ,56642.59004076465,Newark,DE,Delaware,Colonial Athletic,1300,2000,39.6634961,-75.7475911,28.78072548
+Bad,Walter C. Latham Park,Coy O. Williard Baseball Stadium- High Point ,46411.144521832095,Elon,NC,Elon,Colonial Athletic,2000,2001,36.1085926,-79.5073424,209.4953918
+Bad,University Field,Jack Kaiser Stadium - St Johns ,16224.20917955062,Hempstead,NY,Hofstra,Colonial Athletic,400,2000,40.7206766,-73.5986101,24.46110535
+Bad,Monmouth Baseball Field,Rutgers University ,46037.22429226708,West Long Branch,NJ,Monmouth,Colonial Athletic,—,—,40.2785644,-74.0093541,8.556833267
+Bad,World War Memorial Stadium,Coy O. Williard Baseball Stadium- High Point ,22794.599666694456,Greensboro,NC,North Carolina A&T,Colonial Athletic,7500,1928,36.0796511,-79.7783344,235.8069916
+Check,Parsons Field,Harvard university ,3470.749086844727,Brookline,MA,Northeastern,Colonial Athletic,3000,1933,42.3373586,-71.114047,3.30462718
+Bad,Joe Nathan Field,Jack Kaiser Stadium - St Johns ,60526.37216606971,Stony Brook,NY,Stony Brook,Colonial Athletic,1000,1967(Renovated 2011),40.9235662,-73.1223379,34.13159943
+Bad,John B. Schuerholz Baseball Complex,The Baseball Factory Field - UMBC ,18142.72532373581,Towson,MD,Towson,Colonial Athletic,500,2001,39.3949845,-76.6137818,104.9644089
+Bad,Brooks Field,Coastal Carolina ,115527.97679717555,Wilmington,NC,UNC Wilmington,Colonial Athletic,3000,1989,34.2215559,-77.8733336,10.80797005
+Bad,Plumeri Park,The Diamond- VCU ,71701.09978560102,Williamsburg,VA,William & Mary,Colonial Athletic,1000,1999,37.2898694,-76.7326011,30.81233788
+Bad,Horner Ballpark,TCU - Texas Christian ,39973.34361705088,Dallas,TX,Dallas Baptist,Conference USA,2000,2013,32.711911,-96.945362,145.1258698
+Bad,FIU Baseball Stadium,Miami - Alex Rodriguez Park at Mark Light Field,10581.801342204953,Miami,FL,Florida International University,Conference USA,2000,1996,25.7525026,-80.3778939,1.718752861
+Bad,Rudy Abbott Field,Jerry D. Young Memorial Field - U. Alabama Birmingham ,102292.57912161885,Jacksonville,AL,Jacksonville State,Conference USA,1500,1995,33.8255285,-85.7769948,196.5557098
+Bad,Liberty Baseball Stadium,Bolding Stadium - Longwood ,69363.71951827468,Lynchburg,VA,Liberty,Conference USA,2500,2013,37.3566079,-79.1770343,266.7917175
+Bad,J. C. Love Field at Pat Patterson Park,LSU - Alex Box Stadium ,273914.1972220498,Ruston,LA,Louisiana Tech,Conference USA,3000,1971,32.5299525,-92.6511967,82.16394806
+Bad,Reese Smith Jr. Field,Vanderbilt - Hawkins Field ,51297.08374986039,Murfreesboro,TN,Middle Tennessee,Conference USA,2600,1979,35.8512666,-86.3665035,190.0538025
+Bad,Presley Askew Field,Arizona - Hi Corbett Field ,392699.8852373509,Las Cruces,NM,New Mexico State,Conference USA,1000,1982,32.2790299,-106.7442164,1210.223267
+Bad,Don Sanders Stadium,Texas A&M - Olsen Field at Blue Bell Park ,77601.7623806691,Huntsville,TX,Sam Houston,Conference USA,1164,2006,30.7134961,-95.5398989,133.0574951
+Bad,Nick Denes Field,Raymond C. Hand Park- Austin Peay ,93802.1466187449,Bowling Green,KY,Western Kentucky,Conference USA,1500,1968,36.983269,-86.4609476,148.5089417
+Bad,Routine Field,Northwestern University  ,98076.61507596215,Franklin,WI,Milwaukee,Horizon,4000,2019,42.917746,-88.0153853,246.5710907
+Bad,Bill Aker Baseball Complex,J. Page Hayden Field- Xavier ,13519.912302337068,Highland Heights,KY,Northern Kentucky,Horizon,500,2001,39.0283938,-84.4646546,265.8326416
+Good,Oakland Baseball Field,Oakland University ,64.55008782136609,Rochester,MI,Oakland,Horizon,500,—,42.6736629,-83.2107222,258.5016174
+Bad,Mastodon Field,Hillsdale,98782.547546983,Fort Wayne,IN,Purdue Fort Wayne,Horizon,200,—,41.1188415,-85.1032027,238.2637024
+Bad,Nischwitz Stadium,Woerner Field- Dayton ,14415.848267224705,Dayton,OH,Wright State,Horizon,750,1993,39.7853674,-84.0475271,268.9074707
+Bad,Eastwood Field,Charles L. Cost Field - Pittsburgh ,108664.7709159704,Niles,OH,Youngstown State,Horizon,6000,1999,41.2186447,-80.755027,265.255249
+Bad,Murray Stadium,Conaty Park - Bryant ,15981.843000338276,Providence,RI,Brown,Ivy,1000,1959,41.8309152,-71.3938315,33.28467941
+Check,Robertson Field at Satow Stadium,Jim Houlihan Park at Jack Coffey Field- Fordham ,3140.7188071731157,New York,NY,Columbia,Ivy,360,1921,40.8738988,-73.9152232,6.459773064
+Bad,Hoy Field,Binghamton Baseball Stadium Complex - SNY Binghamton ,57072.03295442485,Ithaca,NY,Cornell,Ivy,500,1922,42.4441242,-76.4807209,248.9495392
+Bad,Red Rolfe Field at Biondi Park,UMass Lowell ,140435.90278948858,Hanover,NH,Dartmouth,Ivy,"2,000[18]",2008(@ pre-existing field),43.7018824,-72.2827135,152.0080261
+Good,Joseph J. O'Donnell Field,Harvard university ,71.00749500873724,Allston,MA,Harvard,Ivy,1600,1898,42.3672034,-71.1285889,2.073992252
+Good,Meiklejohn Stadium,Penn - Meiklejohn Stadium ,17.459381617648962,Philadelphia,PA,Pennsylvania,Ivy,850,1999,39.9439966,-75.194052,7.216409206
+Bad,Bill Clarke Field,Rutgers University ,26587.56730750769,Princeton,NJ,Princeton,Ivy,850,1961,40.3463317,-74.6482774,35.13656616
+Bad,Yale Field,UConn - Elliot Ballpark,80215.27253973261,West Haven,CT,Yale,Ivy,6200,1928,41.3090073,-72.9592516,12.64912987
+Bad,Demske Sports Complex,Fred Handler Park- St Bonaventure ,98461.04318518224,Buffalo,NY,Canisius,Metro Atlantic,1200,1989,42.9210419,-78.8577028,189.7103424
+Bad,Alumni Baseball Diamond,Jim Houlihan Park at Jack Coffey Field- Fordham ,62179.280826852235,Fairfield,CT,Fairfield,Metro Atlantic,1000,2001,41.1637788,-73.2585124,39.55319214
+Bad,City Park,Jim Houlihan Park at Jack Coffey Field- Fordham ,12062.539062248881,New Rochelle,NY,Iona,Metro Atlantic,—,—,40.9300124,-73.7707671,5.791893959
+Check,Van Cortlandt Park,Jim Houlihan Park at Jack Coffey Field- Fordham ,4012.128374786118,Bronx,NY,Manhattan,Metro Atlantic,3000,1888,40.8972233,-73.8860668,14.91177559
+Bad,James J. McCann Baseball Field,Jim Houlihan Park at Jack Coffey Field- Fordham ,95358.07116642184,Poughkeepsie,NY,Marist,Metro Atlantic,350,1992,41.7179485,-73.9344524,22.56811142
+Bad,Straw Family Stadium,The Baseball Factory Field - UMBC ,72469.98235843897,Emmitsburg,MD,Mount St. Mary's,Metro Atlantic,500,2007,39.6786527,-77.3445746,151.8241882
+Bad,Bobo Field,Fred Handler Park- St Bonaventure ,125731.67740982,Lewiston,NY,Niagara,Metro Atlantic,—,—,43.1365922,-79.0298831,184.8818207
+Bad,Quinnipiac Baseball Field,UConn - Elliot Ballpark,67790.3384116269,Hamden,CT,Quinnipiac,Metro Atlantic,—,—,41.4205126,-72.8912196,32.26938248
+Bad,Sonny Pittaro Field,Rutgers University ,37440.51567111466,Lawrenceville,NJ,Rider,Metro Atlantic,2000,—,40.2824299,-74.7465084,35.83496475
+Bad,Siena Baseball Field,Varsity Field - SUNY Albany ,7583.138499756094,Loudonville,NY,Siena,Metro Atlantic,500,1950s,42.7187596,-73.7499211,91.9758606
+Bad,Joseph J. Jaroschak Field,Sheppard Stadium - Seton Hall ,13180.155749643416,Jersey City,NJ,Saint Peter's,Metro Atlantic,500,1990,40.7265603,-74.0935298,2.48024869
+Bad,Lee R. Jackson Field,Charles L. Cost Field - Pittsburgh ,147908.3470377208,Akron,OH,Akron,Mid-American,1500,1967,41.0742244,-81.512838,318.1704712
+Bad,Ball Diamond,Bulldog Park - Butler ,75736.01736153146,Muncie,IN,Ball State,Mid-American,1700,—,40.2176773,-85.4216732,287.8858948
+Bad,Steller Field,Adrian,68560.23117968216,Bowling Green,OH,Bowling Green,Mid-American,2500,1964,41.3808751,-83.6284529,205.382782
+Good,Bill Theunissen Stadium,CMU ,70.7689917472986,Mount Pleasant,MI,Central Michigan,Mid-American,2042,2002,43.575883,-84.779155,240.5145264
+Good,Oestrike Stadium,EMU ,0.11333289523075482,Ypsilanti,MI,Eastern Michigan,Mid-American,2500,1971,42.2573881,-83.6487222,242.4703522
+Bad,Olga Mural Field at Schoonover Stadium,Charles L. Cost Field - Pittsburgh ,139063.9447492718,Kent,OH,Kent State,Mid-American,1148,2005,41.1359576,-81.3425485,334.628418
+Bad,Stanley G. McKie Field at Joseph P. Hayden Jr. Park,J. Page Hayden Field- Xavier ,45979.53881095647,Oxford,OH,Miami (Ohio),Mid-American,1000,2002,39.5127001,-84.7331527,266.9221802
+Bad,Ralph McKinzie Field,Northwestern University  ,91013.48468487886,DeKalb,IL,Northern Illinois,Mid-American,1500,1965,41.9347219,-88.7799009,267.4147339
+Bad,Bob Wren Stadium,Ohio State Uni ,109413.06456421762,Athens,OH,Ohio,Mid-American,4000,1998,39.3246222,-82.1084233,195.0592499
+Bad,Scott Park Baseball Complex,Adrian,48998.04267365215,Toledo,OH,Toledo,Mid-American,1000,—,41.638412,-83.59611,188.2864227
+Good,Hyames Field,WMU ,75.83138221307681,Kalamazoo,MI,Western Michigan,Mid-American,1500,1939,42.2849981,-85.602525,244.7003784
+Check,E. S. Rose Park,Vanderbilt - Hawkins Field ,2236.591331390538,Nashville,TN,Belmont,Missouri Valley,750,2011,36.143457,-86.7831437,189.6276093
+Bad,Dozer Park,University of Illinois ,133155.0105304464,Peoria,IL,Bradley,Missouri Valley,7500,2002,40.6876052,-89.5975345,148.9586639
+Bad,Charles H. Braun Stadium,Louisville - Jim Patterson Stadium  ,157015.90237332432,Evansville,IN,Evansville,Missouri Valley,"1,200+",—,37.9760469,-87.5331829,118.7902374
+Bad,Duffy Bass Field,University of Illinois ,80135.53074194948,Normal,IL,Illinois State,Missouri Valley,"1,000+",1988(Renovated 2008),40.5153211,-88.9992329,240.4116974
+Good,Bob Warn Field at Sycamore Stadium,Indiana State ,35.37282340012196,Terre Haute,IN,Indiana State,Missouri Valley,2000,1978,39.4788556,-87.4161037,153.7947693
+Bad,Hammons Field,Arkansas - Baum-Walker Stadium ,152214.29987225472,Springfield,MO,Missouri State,Missouri Valley,10476,2004,37.2115106,-93.2794258,394.5540466
+Bad,Reagan Field,Raymond C. Hand Park- Austin Peay ,86399.71170650996,Murray,KY,Murray State,Missouri Valley,800,1989(Renovated 2006),36.6233693,-88.3174012,153.1013947
+Bad,Abe Martin Field,Billiken Sports Center - St Louis ,135369.59066990603,Carbondale,IL,Southern Illinois,Missouri Valley,2000,1964(Renovated 2011),37.7046162,-89.2206542,126.2878494
+Good,Les Miller Field at Curtis Granderson Stadium,Illinois-Chicago - Curtis Granderson Stadium ,58.821995666045964,Chicago,IL,UIC,Missouri Valley,1000,1996,41.8654527,-87.6488105,180.5068054
+Bad,Emory G. Bauer Field,Illinois-Chicago - Curtis Granderson Stadium ,68158.12411597931,Valparaiso,IN,Valparaiso,Missouri Valley,500,1970,41.4607871,-87.032599,239.4470825
+Bad,Falcon Baseball Field,Larry H. Miller Field - BYU ,599432.0915155178,Colorado Springs,CO,Air Force,Mountain West,1000,1957,38.9970678,-104.8435166,2016.642334
+Bad,Pete Beiden Field at Bob Bennett Stadium,Hardt Field - Cal State Bakersfield ,173188.6846619359,Fresno,CA,Fresno State,Mountain West,5757,1966,36.8136886,-119.7559231,103.3406906
+Bad,William Peccole Park,Dobbin's Baseball Complex - UC Davis ,201889.44908579247,Reno,NV,Nevada,Mountain West,3000,1988,39.5482731,-119.8127651,1398.081787
+Bad,Santa Ana Star Field,Texas Tech - Rip Griffin Park  ,466433.6274242523,Albuquerque,NM,New Mexico,Mountain West,1000,late 1960s,35.0651231,-106.6324424,1553.991699
+Bad,Tony Gwynn Stadium,Triton Ballpark- UC San Diego ,18173.655395989463,San Diego,CA,San Diego State,Mountain West,3000,1997,32.774026,-117.0788554,133.036911
+Bad,San Jose Municipal Stadium,Stanford - Klein Field ,28987.280067581887,San Jose,CA,San Jose State,Mountain West,4200,1942,37.3204351,-121.8623634,32.53474426
+Bad,Earl Wilson Stadium,Riverside Sports Complex- UC Riverside ,309261.952009789,Paradise,NV,UNLV,Mountain West,2500,1994,36.1114236,-115.1476542,620.9179688
+Bad,Balf–Savin Field,UConn - Elliot Ballpark,43557.85596066393,New Britain,CT,Central Connecticut,Northeast,500,2010,41.6965891,-72.7597728,40.87267685
+Bad,Joe Cannon Stadium,The Baseball Factory Field - UMBC ,10716.95292911938,Hanover,MD,Coppin State,Northeast,1500,1990,39.1532505,-76.7159609,57.37884903
+Bad,Soldier Field,Penn - Meiklejohn Stadium ,89694.99477946394,Dover,DE,Delaware State,Northeast,500,1958,39.1844672,-75.5460477,8.491195679
+Bad,Naimoli Family Baseball Complex,Jim Houlihan Park at Jack Coffey Field- Fordham ,13074.634623965463,Teaneck,NJ,Fairleigh Dickinson,Northeast,500,2011,40.9016254,-74.0278848,2.92545104
+Bad,LIU Baseball Stadium,Jack Kaiser Stadium - St Johns ,19701.945447430793,Brookville,NY,LIU,Northeast,—,—,40.813847,-73.5901577,52.88375473
+Bad,Hawk Stadium,University of Maryland ,139333.63454649507,Princess Anne,MD,Maryland Eastern Shore,Northeast,1000,2008,38.211371,-75.6872167,5.104347706
+Bad,Greater Lawrence Technical High School Field,UMass Lowell ,10852.780945818067,Andover,MA,Merrimack,Northeast,—,1974,42.6927278,-71.1954518,24.2690506
+Bad,Marty L. Miller Field,The Diamond- VCU ,133342.38116566447,Norfolk,VA,Norfolk State,Northeast,1500,1997,36.8465964,-76.2634807,3.938048601
+Bad,Veterans Memorial Park,Jim Houlihan Park at Jack Coffey Field- Fordham ,67406.66110652583,Bridgeport,CT,Sacred Heart,Northeast,500,2009,41.2168112,-73.2308288,62.546772
+Bad,Lou Gorman Field,Boston C. ,32398.666962882253,Easton,MA,Stonehill,Northeast,—,—,42.0585807,-71.083558,34.56632614
+Bad,Richmond County Bank Ballpark,Jim Hynes Stadium - NJIT ,14357.696073939556,Staten Island,NY,Wagner,Northeast,7171,2001,40.6455625,-74.0771935,9.865581512
+Bad,Coaches Stadium at Monier Field,Indiana State ,65605.76298849793,Charleston,IL,Eastern Illinois,Ohio Valley,500,1982(renovated 2002),39.4780632,-88.1807859,210.0464172
+Bad,Lou Brock Sports Complex,Billiken Sports Center - St Louis ,29984.73488246378,St. Charles,MO,Lindenwood,Ohio Valley,700,2015,38.787441,-90.5066866,168.9492188
+Bad,Gary Hogan Field,Arkansas - Baum-Walker Stadium ,223102.7377128171,Little Rock,AR,Little Rock,Ohio Valley,2550,1978,34.7293237,-92.3301163,87.59909821
+Good,Allen Field,Moorehouse State - Allen Field  ,16.365788397147952,Morehead,KY,Morehead State,Ohio Valley,1000,1973,38.192972,-83.4260559,232.870163
+Bad,Roy E. Lee Field at Simmons Baseball Complex,Billiken Sports Center - St Louis ,25882.36515127696,Edwardsville,IL,SIU Edwardsville,Ohio Valley,1500,1972(Renovated 2014),38.7988051,-90.0179266,134.2662201
+Bad,Capaha Field,Billiken Sports Center - St Louis ,158475.3115681938,Cape Girardeau,MO,Southeast Missouri State,Ohio Valley,2000,Late 1920s/early 1930s(Renovated 2006),37.3133343,-89.5367522,124.655159
+Bad,USI Baseball Field,Raymond C. Hand Park- Austin Peay ,160408.4440880588,Evansville,IN,Southern Indiana,Ohio Valley,1200,1974,37.9588487,-87.6716699,147.348877
+Bad,Bush Stadium at Averitt Express Baseball Complex,Vanderbilt - Hawkins Field ,116244.02828723696,Cookeville,TN,Tennessee Tech,Ohio Valley,1100,1978,36.1775846,-85.5139078,343.4343872
+Bad,Skyhawk Baseball Field,Raymond C. Hand Park- Austin Peay ,137326.5746011676,Martin,TN,UT Martin,Ohio Valley,500,1974,36.3423692,-88.871321,111.7965012
+Bad,Alfred D. Boyer Stadium,University of Iowa ,150801.23242209153,Macomb,IL,Western Illinois,Ohio Valley,500,2006,40.4733114,-90.686349,192.6380768
+Good,Hi Corbett Field,Arizona - Hi Corbett Field ,37.6823422145887,Tucson,AZ,Arizona,Pac-12,9500,1927,32.2129525,-110.9197125,758.5875244
+Good,Phoenix Municipal Stadium,Phoenix Municipal Stadium- Arizona State ,77.42572200861372,Phoenix,AZ,Arizona State,Pac-12,8775,1964,33.4492164,-111.9547754,364.5796509
+Good,Evans Diamond,Evans Diamond- California Berkeley ,74.24491121927593,Berkeley,CA,California,Pac-12,2500,1933,37.8694247,-122.2633963,70.94693756
+Good,PK Park,Oregon University ,57.10249130900763,Eugene,OR,Oregon,Pac-12,4000,2009,44.0590435,-123.0654476,128.096756
+Good,Goss Stadium at Coleman Field,Oregon State - Goss Stadium at Coleman Field,61.454639039768175,Corvallis,OR,Oregon State,Pac-12,3248,1907,44.562842,-123.2771362,71.95059967
+Good,Klein Field at Sunken Diamond,Stanford - Klein Field ,47.30066091528068,Stanford,CA,Stanford,Pac-12,4000,1931,37.43173,-122.1587444,18.79486275
+Good,Jackie Robinson Stadium,UCLA - Jackie Robinson Stadium ,44.97744614269472,Los Angeles,CA,UCLA,Pac-12,1820,1981,34.0592278,-118.4592393,110.9767609
+Good,Dedeaux Field,Dedeaux Field- USC ,73.88426576029411,Los Angeles,CA,USC,Pac-12,2500,1974,34.0238376,-118.2898635,53.52592468
+Good,Smith's Ballpark,Smith's Ballpark - Utah ,64.91352936749897,Salt Lake City,UT,Utah,Pac-12,15411,1994,40.7405609,-111.8926506,1290.605713
+Good,Husky Ballpark,Husky Ballpark - Washington ,67.57877474085221,Seattle,WA,Washington,Pac-12,2200,1998 (Renovated 2014),47.6543873,-122.2983402,7.830741882
+Good,Bailey–Brayton Field,Bailey-Brayton Field - Washington State ,74.291940656538,Pullman,WA,Washington State,Pac-12,3500,1980,46.7351232,-117.1553272,777.7236328
+Bad,Johnson Stadium at Doubleday Field,Jim Houlihan Park at Jack Coffey Field- Fordham ,59372.2857630662,West Point,NY,Army,Patriot,880,1939,41.3923998,-73.9547362,49.08403397
+Bad,Eugene B. Depew Field,Penn State University ,82269.43343366237,Lewisburg,PA,Bucknell,Patriot,500,1999,40.9522968,-76.891548,147.9826355
+Bad,Hanover Insurance Park at Fitton Field,Conaty Park - Bryant ,41657.71776209834,Worcester,MA,Holy Cross,Patriot,3000,1905,42.2409839,-71.811357,137.5077057
+Bad,Kamine Stadium,Villanova Ballpark at Plymouth - Villanova ,68407.4713882979,Forks Township,PA,Lafayette,Patriot,500,1960s,40.7378009,-75.238322,115.6524811
+Bad,J. David Walker Field at Legacy Park,Villanova Ballpark at Plymouth - Villanova ,51411.747070054094,Bethlehem,PA,Lehigh,Patriot,500,2015,40.5830947,-75.358161,98.19434357
+Bad,Terwilliger Brothers Field at Max Bishop Stadium,The Baseball Factory Field - UMBC ,34566.78032630419,Annapolis,MD,Navy,Patriot,1500,1962,38.986881,-76.4948154,3.396893024
+Good,Sewell–Thomas Stadium,Alabama - Sewell–Thomas Stadium,44.86992742620653,Tuscaloosa,AL,Alabama,Southeastern,8500,"1948closed 2015, rebuilt 2016",33.2048713,-87.538621,65.01921082
+Good,Baum–Walker Stadium,Arkansas - Baum-Walker Stadium ,63.31182762385331,Fayetteville,AR,Arkansas,Southeastern,13472,1996,36.0498883,-94.1822406,374.505188
+Good,Samford Stadium – Hitchcock Field at Plainsman Park,Auburn - Plainsman Park,60.593251608388684,Auburn,AL,Auburn,Southeastern,4096,1950rebuilt 1996,32.5996377,-85.4895649,193.3800049
+Good,Florida Ballpark,Florida Univ - TEMP,10.905401101170721,Gainesville,FL,Florida,Southeastern,7000,2021,29.6364107,-82.3637638,29.34748268
+Good,Foley Field,Georgia - Foley Field ,107.59498690480385,Athens,GA,Georgia,Southeastern,3291,1966renovated 2015,33.9408739,-83.3797097,209.9534607
+Good,Kentucky Proud Park,Kentucky - Kentuckyud Park,60.60006881462272,Lexington,KY,Kentucky,Southeastern,5000,2018,38.0186731,-84.5035386,315.9145508
+Good,"Alex Box Stadium, Skip Bertman Field",LSU - Alex Box Stadium ,53.197554305256816,Baton Rouge,LA,LSU,Southeastern,10326,2009,30.4056564,-91.1879038,6.844009876
+Good,Swayze Field,Ole Miss - Oxford-University Stadium ,71.63437716707236,Oxford,MS,University of Mississippi,Southeastern,"11,000+","1948rebuilt 1989, renovated 2010, renovated 2018",34.362399,-89.5288256,141.0812531
+Good,"Dudy Noble Field, Polk–DeMent Stadium",Mississippi State - Dudy Noble Field ,57.45467110288482,Starkville,MS,Mississippi State,Southeastern,15000,"1967rebuilt 1987, renovated 2001, rebuilt 2019",33.4630609,-88.7940698,110.2767029
+Bad,Taylor Stadium,Billiken Sports Center - St Louis ,186302.92527306866,Columbia,MO,Missouri,Southeastern,3031,2002,38.9355047,-92.3386596,219.3873901
+Good,Founders Park,South Carolina - Founders Park ,65.539127057762,Columbia,SC,South Carolina,Southeastern,8242,2009,33.9865404,-81.042621,52.44177628
+Good,Lindsey Nelson Stadium,Tennessee - Lindsey Nelson Stadium,35.99145312872927,Knoxville,TN,Tennessee,Southeastern,4387,1959rebuilt 1993,35.949736,-83.92927,275.5996094
+Good,Olsen Field at Blue Bell Park,Texas A&M - Olsen Field at Blue Bell Park ,62.41982273760813,College Station,TX,Texas A&M,Southeastern,6100,1978renovated 2014,30.6060601,-96.3413557,103.0995331
+Good,Hawkins Field,Vanderbilt - Hawkins Field ,64.02199743101072,Nashville,TN,Vanderbilt,Southeastern,3626,2002,36.1433984,-86.8073934,161.9081268
+Bad,Joseph P. Riley Jr. Park,Buccaneer Ballpark- Charleston Southern ,23623.665666583107,Charleston,SC,The Citadel,Southern,6000,1997,32.790528,-79.9613184,3.128093719
+Bad,Thomas Stadium,Greenwood Baseball Field - UNC Asheville ,79300.71681337422,Johnson City,TN,East Tennessee State,Southern,1000,2012,36.3098832,-82.3634988,500.3685608
+Bad,Claude Smith Field,Russ Chandler Stadium- Georgia Tech ,125999.606511749,Macon,GA,Mercer,Southern,500,—,32.8279324,-83.6535568,133.698288
+Check,Joe Lee Griffin Stadium,Jerry D. Young Memorial Field - U. Alabama Birmingham ,4113.849785938043,Homewood,AL,Samford,Southern,1000,—,33.462803,-86.7967674,212.5553284
+Bad,UNCG Baseball Stadium,Coy O. Williard Baseball Stadium- High Point ,19409.965825803218,Greensboro,NC,UNC Greensboro,Southern,3500,1999,36.0676561,-79.8133738,245.2696228
+Bad,Hennon Stadium,Greenwood Baseball Field - UNC Asheville ,65432.85346980789,Cullowhee,NC,Western Carolina,Southern,1500,1978,35.3006808,-83.1808101,642.9626465
+Bad,Gray–Minor Stadium,U of Virginia ,85958.43929241253,Lexington,VA,VMI,Southern,1400,2007,37.7926097,-79.4400745,291.5003662
+Bad,Russell C. King Field,Cleveland S. Harley Baseball Park - USC Upstate,6162.796741502766,Spartanburg,SC,Wofford,Southern,2500,2004,34.9588822,-81.9307341,234.9904327
+Bad,Husky Field,Reckling Park- Rice ,10729.990819127062,Houston,TX,Houston Christian,Southland,500,1993,29.6924131,-95.5133115,19.65855217
+Bad,Daniel Sullivan Field,Roadrunner Field- UTSA ,19622.91719696125,San Antonio,TX,Incarnate Word,Southland,1000,1989,29.4686104,-98.4707856,209.7190704
+Bad,Vincent–Beck Stadium,Reckling Park- Rice ,133131.5501555911,Beaumont,TX,Lamar,Southland,3500,1969(Renovated 2006following Hurricane Rita),30.0346661,-94.0747752,5.432114124
+Bad,Joe Miller Ballpark,LSU - Alex Box Stadium ,196224.0497889038,Lake Charles,LA,McNeese,Southland,2000,1965,30.1728322,-93.2135598,3.834161758
+Bad,Maestri Field at Privateer Park,Greer Field at Turchin Stadium - Tulane _,11489.26087258201,New Orleans,LA,New Orleans,Southland,2900,1979(Renovation 2013),30.0304884,-90.0470967,1.002143621
+Bad,Ben Meyer Diamond at Ray E. Didier Field,Greer Field at Turchin Stadium - Tulane _,68573.97313281201,Thibodaux,LA,Nicholls,Southland,3200,1960,29.7857095,-90.8021236,2.931951046
+Bad,H. Alvin Brown–C. C. Stroud Field,LSU - Alex Box Stadium ,240833.40128672085,Natchitoches,LA,Northwestern State,Southland,1200,1939,31.7922682,-93.1314667,61.13729858
+Bad,Pat Kenelly Diamond at Alumni Field,LSU - Alex Box Stadium ,69691.1093007087,Hammond,LA,Southeastern Louisiana University,Southland,2500,1992,30.5095415,-90.4706791,13.24513721
+Bad,Chapman Field,Roadrunner Field- UTSA ,243890.9955605617,Corpus Christi,TX,Texas A&M-Corpus Christi,Southland,750,2002Major renovation 2012,27.709946,-97.3245836,3.755827904
+Bad,Bulldog Field,Jerry D. Young Memorial Field - U. Alabama Birmingham ,144160.65261689408,Normal,AL,Alabama A&M,SWAC,500,1997,34.7803796,-86.5784764,215.1184692
+Bad,Wheeler–Watkins Baseball Complex,Auburn - Plainsman Park,79496.00907573328,Montgomery,AL,Alabama State,SWAC,500,2011,32.3603134,-86.2884093,85.47280121
+Bad,Foster Baseball Field at McGowan Stadium,LSU - Alex Box Stadium ,163452.55163636737,Lorman,MS,Alcorn State,SWAC,500,2010,31.8754612,-91.1375647,76.27629852
+Bad,Torii Hunter Baseball/Softball Complex,FedExPark- Memphis ,213208.7378278866,Pine Bluff,AR,Arkansas–Pine Bluff,SWAC,1000,2009-11,34.2547488,-92.016871,65.60681915
+Bad,Radiology Associates Field at Jackie Robinson Ballpark,John Euliano Park- Central Florida ,68934.19296147775,Daytona,FL,Bethune–Cookman[b],SWAC,4200,1914,29.2092654,-81.0159085,1.132305145
+Check,Moore–Kittles Field,Mike Martin Field at Dick Howser Stadium - Florida State ,2634.5296681379637,Tallahassee,FL,Florida A&M,SWAC,500,1983,30.4191944,-84.291012,32.80353928
+Bad,Wilbert Ellis Field at Ralph Waldo Emerson Jones Park,LSU - Alex Box Stadium ,276332.804117268,Grambling,LA,Grambling,SWAC,1100,2002,32.5255723,-92.709302,95.9559021
+Bad,Braddy Field,Southern Miss,134603.1951244964,Jackson,MS,Jackson State,SWAC,800,2006,32.2967442,-90.2009505,93.24630737
+Bad,Magnolia Field,Ole Miss - Oxford-University Stadium ,120974.00341794231,Itta Bena,MS,Mississippi Valley State,SWAC,200,1950,33.5099142,-90.3448135,38.71043015
+Bad,John W. Tankersley Field,,inf,Prairie View,TX,Prairie View A&M,SWAC,512,—,,,
+Bad,Lee–Hines Field,LSU - Alex Box Stadium ,12745.717482484853,Baton Rouge,LA,Southern,SWAC,1500,1992,30.5207121,-91.1843378,19.59702301
+Bad,MacGregor Park,Reckling Park- Rice ,6343.410404493091,Houston,TX,Texas Southern,SWAC,500,—,29.7105806,-95.3391707,10.66001034
+Bad,Newman Outdoor Field,St Boni Ballfield ,323957.667147291,Fargo,ND,North Dakota State,Summit,4513,1996,46.8987317,-96.8037343,273.6011963
+Bad,Jackson Field,Larry H. Miller Field - BYU ,590512.7253153451,Greeley,CO,Northern Colorado,Summit,1500,1928,40.4069254,-104.6863535,1431.301758
+Bad,Tal Anderson Field,Charles Schwab Field Omaha ,8082.486120014279,Omaha,NE,Omaha,Summit,1500,2021,41.2345746,-96.0184227,320.4002075
+Bad,J. L. Johnson Stadium,Oklahoma State - Old Stadium,100647.39314014667,Tulsa,OK,Oral Roberts,Summit,2418,1977,36.0494887,-95.948467,198.6058655
+Bad,Koch Diamond,University of Minnesota ,7250.696802413275,St. Paul,MN,St. Thomas,Summit,250[45],2006,44.954983,-93.1462529,271.8817749
+Bad,Erv Huether Field,St Boni Ballfield ,248350.89125731817,Brookings,SD,South Dakota State,Summit,600,2008,44.3224266,-96.7772227,494.9725647
+Bad,Beaver Field at Jim and Bettie Smith Stadium,Greenwood Baseball Field - UNC Asheville ,103094.15390076484,Boone,NC,Appalachian State,Sun Belt,1000,2007,36.2111108,-81.6927826,1062.363525
+Bad,Tomlinson Stadium–Kell Field,FedExPark- Memphis ,106406.93346401637,Jonesboro,AR,Arkansas State,Sun Belt,1200,1992,35.8428242,-90.668392,86.147995
+Good,Springs Brooks Stadium,Coastal Carolina ,208.3179302061364,Conway,SC,Coastal Carolina,Sun Belt,5500,N/A(Rebuilt 2013),33.7928031,-79.0174575,12.79720497
+Bad,J. I. Clements Stadium,Buccaneer Ballpark- Charleston Southern ,171955.4481742662,Statesboro,GA,Georgia Southern,Sun Belt,3000,2005,32.4287969,-81.7816806,72.6190033
+Bad,Georgia State Baseball Complex,Russ Chandler Stadium- Georgia Tech ,14547.194542421628,Decatur,GA,Georgia State,Sun Belt,1092,1986,33.6876923,-84.2791986,232.0638733
+Bad,Eagle Field at Veterans Memorial Park,U of Virginia ,54648.35921228736,Harrisonburg,VA,James Madison,Sun Belt,1200,2010,38.4460382,-78.8773198,398.5333862
+Bad,M. L. Tigue Moore Field at Russo Park,LSU - Alex Box Stadium ,84730.10735184558,Lafayette,LA,Louisiana,Sun Belt,6015,1978renovated 2017,30.213099,-92.041655,10.53493118
+Bad,Warhawk Field,LSU - Alex Box Stadium ,250573.47361024207,Monroe,LA,University of Louisiana Monroe,Sun Belt,1800,1983,32.5322574,-92.0634407,22.23731422
+Bad,Appalachian Power Park,Moorehouse State - Allen Field  ,158158.75321236745,Charleston,WV,Marshall,Sun Belt,4500,2005,38.3482095,-81.6252764,183.7939911
+Bad,Linda K. Epling Stadium,Virginia Tech - English Field at Atlantic Union Bank Park ,93187.77683312638,Beckley,WV,Marshall,Sun Belt,2500,2010,37.8150668,-81.1657652,740.8118896
+Bad,Bud Metheny Baseball Complex,The Diamond- VCU ,127560.2561709122,Norfolk,VA,Old Dominion,Sun Belt,2500,1983,36.8838422,-76.3097149,4.120559216
+Check,Eddie Stanky Field,Spring Hill- Stan Galle Field,4483.903063133903,Mobile,AL,South Alabama,Sun Belt,4500,1980,30.6916263,-88.1843172,64.61965942
+Good,Pete Taylor Park,Southern Miss,58.20860708330936,Hattiesburg,MS,Southern Miss,Sun Belt,4300,1985,31.3335725,-89.3380978,66.2219162
+Bad,Bobcat Ballpark,U of Texas - UFCU Disch–Falk Field,47672.26354100611,San Marcos,TX,Texas State,Sun Belt,2500,2009,29.8879632,-97.9282519,176.714386
+Bad,Riddle–Pace Field,Auburn - Plainsman Park,99228.71580712467,Troy,AL,Troy,Sun Belt,2000,1931,31.7982637,-85.952973,165.9943848
+Bad,Washington Trust Field and Patterson Baseball Complex,Bailey-Brayton Field - Washington State ,104787.59604814583,Spokane,WA,Gonzaga,West Coast,2300,2007,47.6627098,-117.3989089,574.5100708
+Bad,George C. Page Stadium,UCLA - Jackie Robinson Stadium ,11061.332849495082,Los Angeles,CA,Loyola Marymount,West Coast,1200,1983,33.9666448,-118.4143933,44.29959869
+Bad,Klein Family Field,Dobbin's Baseball Complex - UC Davis ,73907.36902313727,Stockton,CA,Pacific,West Coast,2500,2006,37.9753026,-121.3159166,2.785621881
+Bad,Eddy D. Field Stadium,UCLA - Jackie Robinson Stadium ,23264.940408303464,Malibu,CA,Pepperdine,West Coast,2000,1973,34.0403085,-118.7109504,100.4457855
+Bad,Joe Etzel Field,Oregon State - Goss Stadium at Coleman Field,120322.52434165537,Portland,OR,Portland,West Coast,1000,1988,45.5736357,-122.7292523,50.21657944
+Bad,Louis Guisto Field,Evans Diamond- California Berkeley ,13725.066811489245,Moraga,CA,Saint Mary's,West Coast,1100,2012,37.8420163,-122.1118128,182.6894684
+Bad,Fowler Park,Triton Ballpark- UC San Diego ,12396.535433987921,San Diego,CA,San Diego,West Coast,1700,2013,32.7757645,-117.1833515,45.72412491
+Bad,Dante Benedetti Diamond at Max Ulrich Field,Evans Diamond- California Berkeley ,19133.234318296418,San Francisco,CA,San Francisco,West Coast,2000,1953,37.7769911,-122.4476556,81.96420288
+Bad,Stephen Schott Stadium,Stanford - Klein Field ,22123.993983157132,Santa Clara,CA,Santa Clara,West Coast,1500,2005,37.3485007,-121.9315464,20.06122589
+Bad,Crutcher Scott Field,TCU - Texas Christian ,220191.46452086364,Abilene,TX,Abilene Christian,Western Athletic,4000,1991,32.4728976,-99.7068087,521.5148926
+Bad,James W. Totman Stadium,,inf,Riverside,CA,California Baptist,Western Athletic,800,2007[49],,,
+Bad,Brazell Field at GCU Ballpark,Phoenix Municipal Stadium- Arizona State ,18078.34314806821,Phoenix,AZ,Grand Canyon,Western Athletic,3500,2018,33.5124741,-112.1334617,349.2816162
+Bad,John Smith Field,Dobbin's Baseball Complex - UC Davis ,28923.476530896485,Sacramento,CA,Sacramento State,Western Athletic,1200,1953,38.5586042,-121.4267018,12.08512402
+Bad,Bannerwood Park,Husky Ballpark - Washington ,12076.704329185428,Bellevue,WA,Seattle,Western Athletic,300+,—,47.5954567,-122.1634694,16.97997093
+Bad,Jaycees Field,Texas A&M - Olsen Field at Blue Bell Park ,195063.84405245155,Nacogdoches,TX,Stephen F. Austin,Western Athletic,1000,2009,31.6345693,-94.6818237,128.7718964
+Bad,Cecil Ballow Baseball Complex,TCU - Texas Christian ,96500.71795255141,Stephenville,TX,Tarleton,Western Athletic,750[50],1988,32.2116492,-98.2201017,408.3104553
+Bad,Bruce Hurst Field,Larry H. Miller Field - BYU ,388168.3336182287,St. George,UT,Utah Tech[52],Western Athletic,"2,500[53]",1994,37.09884,-113.565416,805.7403564
+Bad,UCCU Ballpark,Larry H. Miller Field - BYU ,6165.346912779017,Orem,UT,Utah Valley,Western Athletic,5000,2005,40.2772058,-111.717674,1395.227295
+Bad,Clay Gould Ballpark,TCU - Texas Christian ,22681.463207832632,Arlington,TX,UT Arlington,WAC,1600,1974,32.721909,-97.1310583,195.1464844
+Bad,UTRGV Baseball Stadium,Roadrunner Field- UTSA ,366369.92927405733,Edinburg,TX,UTRGV,Western Athletic,4000,2001,26.3120282,-98.1763814,29.9624424
