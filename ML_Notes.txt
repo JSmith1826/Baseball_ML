@@ -1,0 +1,22 @@
+## GOAL 7/26/23
+- get weather data in order! and begin the ml design
+
+- output fields ploted vs those not and sort by number of games at location
+
+
+Notes for exploding weather json in the no_boxscore set
+
+- want to do some calculations as we process then
+	- delta temp change 
+		- overall (daily min max) = {
+		- delta change afternoon to evening
+		- ? delta afternoon or evening to night
+- a number of values will be taken as is 
+IMPORTANT keys
+	- cloud_cover: afternoon # that is the only subkey
+- humidity: afternoon # 
+- precipitation: total # 
+- temperature: #subs min, max, afternoon, night, evening 
+- pressure #
+- wind: max {speeed, direction(int < 360)}
+
